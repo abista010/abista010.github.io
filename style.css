@@ -96,16 +96,6 @@ input, select {
 
 
 h1{
-    color: green;
-}
-
-h1{
-    color:purple;
-}
-h2 {
-    color: blue;
-}
-
-.title {
-    color: turquoise;
+    color: teal;
+    font-size: 40px;
 }
