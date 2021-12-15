@@ -1,0 +1,14 @@
+body{
+    background-color: #222;
+    color:#ddd;
+    font-family:'Segoe UI';
+    text-align: center;
+}
+.light-mode{
+    background-color: #999;
+    color:#222;
+}
+h1{
+    font-size:300%
+
+}
