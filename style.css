@@ -1,14 +1,40 @@
-body{
+body {
     background-color: #222;
-    color:#ddd;
-    font-family:'Segoe UI';
+    color: #ddd;
+    font-family: 'Segoe UI';
     text-align: center;
 }
-.light-mode{
+
+.topnav {
     background-color: #999;
-    color:#222;
+    overflow: auto;
 }
-.h2{
-    color:green;
+
+.topnav a {
+    float: left;
+    color: #222;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.topnav a:hover {
+    background-color: #666;
+    color: black;
+}
+
+.topnav a:active {
+    background-color: #777;
+    color: white;
+}
+
+.light-mode {
+    background-color: #999;
+    color: #222;
+}
+
+.h2 {
+    color: green;
 
 }
